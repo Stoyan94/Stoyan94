@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stoyan94&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Stoyan94&theme=dark)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Stoyan94&theme=dark" alt="GitHub Streak" /></a>
